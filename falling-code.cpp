@@ -7,7 +7,7 @@
 #include <time.h>   // For srand(time(NULL))
 
 // Global parameters with default values and their ranges
-int matrixWidth = 128;                          // Width of one LED matrix panel
+int matrixWidth = 64;                          // Width of one LED matrix panel
 int matrixHeight = 64;                         // Height of one LED matrix panel
 int chainedMatrix = 1;                         // Number of chained matrix panels
 int maxCharacters = 100;                       // Maximum number of characters to display
