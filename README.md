@@ -2,6 +2,8 @@
 
 ## A simulation of falling code for a led matrix panel
 
+[![View the example here](https://img.youtube.com/vi/EgAk3i24URg/0.jpg)](https://www.youtube.com/watch?v=EgAk3i24URg)
+
 Usage (run with sudo for necessary privileges):
 
     sudo ./falling-code [options]
